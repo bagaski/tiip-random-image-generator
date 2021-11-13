@@ -1,13 +1,11 @@
 html, body {
   margin: 0;
   padding: 0;
-  width: 100vw;
   background:white;
 }
 canvas {
   display: block;
-  width: 100vw;
-  border-top: 1px solid black;
+  border-top: 1px solid black
 }
 
 button {
@@ -23,4 +21,4 @@ button {
 button:hover {
   background-color: lightgray;
 }
-
+}

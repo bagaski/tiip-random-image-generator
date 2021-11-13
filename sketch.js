@@ -79,6 +79,7 @@ function preload() {
   img[50] = loadImage('50.png')
   img[51] = loadImage('51.png')
   img[52] = loadImage('52.png')
+  img[53] = loadImage('53.png')
   p5font = loadFont('RobotoSlab-Black.ttf')
 }
 
