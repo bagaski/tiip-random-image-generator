@@ -80,6 +80,18 @@ function preload() {
   img[51] = loadImage('51.png')
   img[52] = loadImage('52.png')
   img[53] = loadImage('53.png')
+  img[54] = loadImage('54.png')
+  img[55] = loadImage('55.png')
+  img[56] = loadImage('56.png')
+  img[57] = loadImage('57.png')
+  img[58] = loadImage('58.png')
+  img[59] = loadImage('59.png')
+  img[60] = loadImage('60.png')
+  img[61] = loadImage('61.png')
+  img[62] = loadImage('62.png')
+  img[63] = loadImage('63.png')
+  img[64] = loadImage('64.png')
+  img[65] = loadImage('65.png')
   p5font = loadFont('RobotoSlab-Black.ttf')
 }
 
